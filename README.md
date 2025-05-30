@@ -10,8 +10,8 @@ Creado con amor por **SoyMaycol** UwU â™¡
 
 - Aprender el funcionamiento interno del protocolo WA Web
 - Personalizar la arquitectura para futuros bots
-- AÃ±adir soporte a comandos dinÃ¡micos desde carpetas
-- Integrar futuras APIs como SYAHosting o MayAPI
+- Añadir soporte a comandos dinamicos desde carpetas
+- Integrar futuras APIs como NightAPI
 
 ## Instalacion
 
