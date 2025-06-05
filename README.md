@@ -31,3 +31,7 @@ Una nueva guia esta¡ disponible en: https://baileys.wiki
 ---
 
 > Proyecto basado en el trabajo increÃ­ble de [@WhiskeySockets](https://github.com/WhiskeySockets/Baileys)
+
+---
+
+PROYECTO INDIVIDUAL 
